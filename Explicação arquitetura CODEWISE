@@ -8,6 +8,3 @@ No padrão MVC (Model-View-Controller), há uma separação clara entre as camad
 
 Aqui, embora haja alguma estrutura (por exemplo, o uso do Pydantic para os dados), não há uma divisão explícita entre interface/controle e o modelo de dados/modo de interação com o OpenAI. Tudo acontece na mesma camada.
 
-**Por que não é Clean Architecture?**  ito. Conforme a complexidade do projeto aumenta, recomenda-se separar as responsabilidades em camadas bem definidas para facilitar a manutenção e a escalabilidade.
-
-Gostaria de explorar como transformar essa base simples em uma arquitetura mais robusta? Ou então podemos conversar sobre técnicas para melhorar a organização do código?
